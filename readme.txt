@@ -4,4 +4,4 @@ Git is a distributed version control system.
 
 Add a new line at the end.
 
-NEW FEATURES
+NEW FEATURES. Add to Stage.
