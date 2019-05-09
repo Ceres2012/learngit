@@ -6,4 +6,4 @@ Add a new line at the end.
 
 NEW FEATURES. Add to Stage. 
 
-Github
+Create a new branch named dev.
