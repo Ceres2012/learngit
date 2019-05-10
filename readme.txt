@@ -8,4 +8,4 @@ NEW FEATURES. Add to Stage.
 
 Create a new branch named dev.
 <<<<<<
-feature&1
+issue-001 fixed.
