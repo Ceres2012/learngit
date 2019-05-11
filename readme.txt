@@ -9,3 +9,6 @@ NEW FEATURES. Add to Stage.
 Create a new branch named dev.
 <<<<<<
 issue-001 fixed.
+feature&1
+stash test
+
